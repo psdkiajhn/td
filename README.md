@@ -7,6 +7,7 @@
 2. make it executable(if it is not) by `sudo chmod +x install.sh`
 3. then run it by `./install.sh`
 ### Windows:
+#### (installer will be added, now please download and use it manually)
 1. Download the installer from the [releases](https://github.com/psdkiajhn/td/releases)
 3. run it by `install.bat` or clicking twice in the ui
 
